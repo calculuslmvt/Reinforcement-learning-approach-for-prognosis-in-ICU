@@ -42,7 +42,6 @@ pip install numpy pandas torch mimic
 
 ```
 git clone https://github.com/calculuslmvt/Reinforcement-learning-approach-for-prognosis-in-ICU.git
-cd icu-prognosis-rl
 ```
 
 2. **Download the MIMIC-III dataset**: You'll need to download the MIMIC-III dataset from the official website (https://mimic.physionet.org/) and extract it to a directory accessible by your Python script.
