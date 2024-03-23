@@ -41,7 +41,7 @@ pip install numpy pandas torch mimic
 1. **Clone the repository**:
 
 ```
-git clone https://github.com/your-username/icu-prognosis-rl.git
+git clone https://github.com/calculuslmvt/Reinforcement-learning-approach-for-prognosis-in-ICU.git
 cd icu-prognosis-rl
 ```
 
